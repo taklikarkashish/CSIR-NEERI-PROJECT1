@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+dataset_augmented/
+yolo_dataset/
+dataset/
+yolov7_model/
+runs/
+
+# Archives
+*.zip
+
+# Cache
+*.cache
+
+# Models
+*.pt
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
