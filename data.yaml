@@ -1,0 +1,27 @@
+path: d:\agri_sect_model\yolo_dataset
+train: train
+val: val
+names:
+  0: Agrotis_ipsilon
+  1: Aleurodicus_dispersus
+  2: Amrasca_biguttula
+  3: Aphis_craccivora
+  4: Bemisia_tabaci
+  5: Chilo_suppressalis
+  6: Cnaphalocrocis_medinalis
+  7: Crocidolomia_pavonana
+  8: Diabrotica_virgifera
+  9: Diaphorina_citri
+  10: Empoasca_fabae
+  11: Helicoverpa_armigera
+  12: Lampides_boeticus
+  13: Leptocorisa_acuta
+  14: Maruca_vitrata
+  15: Mylabris_phalerata
+  16: Mythimna_separata
+  17: Nephotettix_virescens
+  18: Pieris_rapae
+  19: Plutella_xylostella
+  20: Scirpophaga_incertulas
+  21: Spodoptera_litura
+  22: Tetranychus_urticae

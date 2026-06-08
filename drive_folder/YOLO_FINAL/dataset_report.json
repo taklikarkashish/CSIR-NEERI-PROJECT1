@@ -1,0 +1,41 @@
+{
+    "dataset_name": "YOLO Insect Classification Dataset",
+    "total_classes": 23,
+    "class_names": [
+        "Agrotis_ipsilon",
+        "Aleurodicus_dispersus",
+        "Amrasca_biguttula",
+        "Aphis_craccivora",
+        "Bemisia_tabaci",
+        "Chilo_suppressalis",
+        "Cnaphalocrocis_medinalis",
+        "Crocidolomia_pavonana",
+        "Diabrotica_virgifera",
+        "Diaphorina_citri",
+        "Empoasca_fabae",
+        "Helicoverpa_armigera",
+        "Lampides_boeticus",
+        "Leptocorisa_acuta",
+        "Maruca_vitrata",
+        "Mylabris_phalerata",
+        "Mythimna_separata",
+        "Nephotettix_virescens",
+        "Pieris_rapae",
+        "Plutella_xylostella",
+        "Scirpophaga_incertulas",
+        "Spodoptera_litura",
+        "Tetranychus_urticae"
+    ],
+    "total_validation_images": 4600,
+    "train_split": "80%",
+    "validation_split": "20%",
+    "dataset_path": "D:\\agri_sect_model\\yolo_dataset",
+    "augmentation": [
+        "flip",
+        "rotation",
+        "scaling",
+        "brightness variation",
+        "noise injection"
+    ],
+    "notes": "Dataset used for YOLOv8 and YOLOv11 classification models for agricultural insect classification."
+}
