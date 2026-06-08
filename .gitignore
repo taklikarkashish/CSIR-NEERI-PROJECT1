@@ -1,0 +1,20 @@
+﻿# Python environment
+cnn_env/
+.venv/
+env/
+
+# Cache
+__pycache__/
+*.pyc
+
+# ZIP files
+*.zip
+
+# IDE
+.vscode/
+
+# System
+.DS_Store
+
+# Logs
+*.log
